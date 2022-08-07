@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhineshbabbu" alt="dhineshbabbu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dhinesh__offi" target="blank"><img src="https://img.shields.io/twitter/follow/dhinesh__offi?logo=twitter&style=for-the-badge" alt="dhinesh__offi" /></a> </p>
-
 - 🔭 I’m currently working **on doing things up to my best**
 
 - 🌱 I’m currently learning **the life, the universe and everything.**
