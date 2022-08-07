@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DHINESH BABBU A</h1>
-<h3 align="center">I am Artificial Intelligence and Data Science Engineer from india. Highly analytical individual with strong communication and programming skills. Have a good knowledge on Data Science, machine learning Algorithms, Deep learning And Artificial Intelligence.</h3>
+<h3 align="center">I am Artificial Intelligence and Data Science student currently persuving 3rd year in india. Highly analytical individual with strong communication and programming skills. Have a good knowledge on Data Science, machine learning Algorithms, Deep learning And Artificial Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhineshbabbu&label=Profile%20views&color=0e75b6&style=flat" alt="dhineshbabbu" /> </p>
 
