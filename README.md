@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DHINESH BABBU A</h1>
-<h3 align="center">I am Artificial Intelligence and Data Science student currently persuving 3rd year in india. Highly analytical individual with strong communication and programming skills. Have a good knowledge on Data Science, machine learning Algorithms, Deep learning And Artificial Intelligence.</h3>
+<h3 align="center">I am Artificial Intelligence and Data Science Engineer from india. Highly analytical individual with strong communication and programming skills. Have a good knowledge on Data Science, machine learning Algorithms, Deep learning And Artificial Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhineshbabbu&label=Profile%20views&color=0e75b6&style=flat" alt="dhineshbabbu" /> </p>
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhinesh__offi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhinesh__offi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhinesh-babbu-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinesh-babbu-a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/dhinesh-babbu-a-585a86204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dhinesh-babbu-a-585a86204" height="30" width="40" /></a>
 <a href="https://instagram.com/dhinesh__offi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhinesh__offi" height="30" width="40" /></a>
 </p>
 
